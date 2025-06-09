@@ -1,5 +1,5 @@
 module encoder (
-  input enb,[7:0] i,
+  input [7:0] i,
   output reg a,b,c
 );
   
